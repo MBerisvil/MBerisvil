@@ -12,7 +12,7 @@ Mi repositorio actualmente tiene poco proyectos, pero de apoco voy subiendo y co
 ---
 
 ### 🌐 Contactarme:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/![Linkedin](https://www.linkedin.com/in/berisvilmauricio/)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MauriBerisvil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/![Linkedin](https://www.linkedin.com/in/berisvilmauricio/)) [![My Web](https://img.shields.io/badge/My%20site%20web-8A2BE2)](https://berisvilmauricio.ar/)
 [![](https://visitcount.itsvg.in/api?id=MBerisvil&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
