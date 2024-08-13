@@ -3,7 +3,7 @@ Un Téc. en Desarrollo de Software 💻, quien cree que es bueno ampliar su sona
 Soy un curioso 👀 y comprometido, me gusta aprender y ponerlo en practica.
 En mi GitHub vas a encontrar mis desarrllos y podras ayudarme a mejorar.<br><br>
 
-![CS](https://github.com/MBerisvil/MBerisvil/assets/95480927/53699a89-85c9-4956-8aa5-bbca3b089337)
+
 
 
 
