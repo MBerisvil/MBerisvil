@@ -40,6 +40,8 @@ I am a Software Development Technician working in a bank in the province of Cord
 ### Frameworks
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-5C2D91.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 
 ### Other Tools and Technologies
