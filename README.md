@@ -17,14 +17,11 @@ I am a Software Development Technician working in a bank in the province of Cord
 - Reach out to me at: berisvilmauricio@gmail.com
 
 
-
 ⚠️ I have litlle projects upload and  i would like shared to with you 
 
 <br>
 
-
- 
-### ⚙️ My skill:
+## ⚙️ My skill:
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -49,26 +46,23 @@ I am a Software Development Technician working in a bank in the province of Cord
 
  <br>
  
-### 🚀 GitHub States
+## 🚀 GitHub States
 
 <br>
 
 <p align="center">
   <a href="https://github.com/MBerisvil">
-    <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MBerisvil&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MBerisvil&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&color=%4493f8"/>
   </a>
   <a href="https://github.com/MBerisvil">
-    <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MBerisvil&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MBerisvil&layout=compact&langs_count=8&theme=algolia&color=%4493f8"/>
   </a>
 </p>
 
-<p align="center">
-  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=MBerisvil&theme=dark&hide_border=true"/>
-</p>
 
+<br>
 
-
-### 🌐 Contact with me
+## 🌐 Contact with me
 [![Linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=%23F7DF1E)](https://www.linkedin.com/in/berisvilmauricio/)
 [![Linkedin](https://img.shields.io/badge/myweb-000?style=for-the-badge&logo=Qiskit&logoColor=%23F7DF1E)](https://berisvilmauricio.ar/)
 [![Linkedin](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=%23F7DF1E)](https://github.com/MBerisvil/)
