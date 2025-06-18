@@ -1,79 +1,208 @@
-<h1 align="center">Hi , I'm Mauricio Berisvil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<br>
+<!-- Banner animado con nombre y subtítulo centrados en blanco -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%4493f8&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Development;Data+Analytics;Always+learning+new+things"></a>
-</p>
-<!--<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>-->
-
-<br>
-
-## 👨‍💻 About me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-I am a Software Development Technician working in a bank in the province of Cordoba. I am expanding my knowledge in web development in python, with its framworks and  libraries
-
-
-- I'm Technical in software developer
-- I'm learning development web with python and his frameworks
-- I'm development clasics game in python with la libreria PyGame
-- Reach out to me at: berisvilmauricio@gmail.com
-
-
-⚠️ I have litlle projects upload and  i would like shared to with you 
-
-
-
-<br>
-
-## ⚙️ My skill
-
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Databases
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-### Frameworks
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-5C2D91.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
-
-### Other Tools and Technologies
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
- <br>
- 
-## 🚀 GitHub States
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/MBerisvil">
-    <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MBerisvil&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&color=%4493f8"/>
-  </a>
-  <a href="https://github.com/MBerisvil">
-    <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MBerisvil&layout=compact&langs_count=8&theme=algolia&color=%4493f8"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d3557,100:457b9d&height=170&section=header&text=Mauricio%20Berisvil&fontSize=46&fontAlignY=39&fontColor=FFFFFF&desc=Software%20Developer%20%7C%20Python%20Enthusiast&descSize=22&descAlign=50&descAlignY=60&animation=fadeIn" alt="banner"/>
 </p>
 
+<!-- Selector de idioma (banderas a la derecha) -->
+<p align="right">
+  <a href="#español"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ar.svg" width="34" alt="Español" /></a>
+  <a href="#english"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" width="34" alt="English" /></a>
+</p>
 
-<br>
+---
 
-## 🌐 Contact with me
-[![Linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=%23F7DF1E)](https://www.linkedin.com/in/berisvilmauricio/)
-[![Linkedin](https://img.shields.io/badge/myweb-000?style=for-the-badge&logo=Qiskit&logoColor=%23F7DF1E)](https://berisvilmauricio.ar/)
-[![Linkedin](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=%23F7DF1E)](https://github.com/MBerisvil/)
+## <a name="español"></a>🇦🇷 Español
 
+### 📑 Tabla de Contenidos
+- [Sobre mí](#sobre-mí)
+- [Timeline](#timeline)
+- [Tecnologías y herramientas](#tecnologías-y-herramientas)
+- [Proyectos destacados](#proyectos-destacados)
+- [Estadísticas y actividad](#estadísticas-y-actividad)
+- [Actualmente aprendiendo](#actualmente-aprendiendo)
+- [Contacto](#contacto)
 
+---
+
+### 👨‍💻 Sobre mí
+
+- 💼 Técnico en Desarrollo de Software en un banco de Córdoba, Argentina.
+- 🧑‍💻 Amante de la programación y el aprendizaje continuo.
+- 🐍 Especializado en desarrollo web y de juegos con **Python** y sus frameworks.
+- 🎮 Me divierte crear videojuegos clásicos con PyGame.
+- 🌐 Más en [berisvilmauricio.ar](https://berisvilmauricio.ar).
+
+---
+
+### 🕓 Timeline
+
+```mermaid
+timeline
+    title Mi Trayectoria
+    2017 : Técnico en Desarrollo de Software
+    2019 : Primeros proyectos freelance en Python y web
+    2021 : Me uno al sector bancario como dev
+    2022 : Juegos clásicos con PyGame
+    2023 : Experiencia en Django y .NET
+    2024 : Lanzamiento de sitio personal y proyectos abiertos
+```
+
+---
+
+### 🛠️ Tecnologías y herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,java,cs,dotnet,bootstrap,sqlite,mysql,vercel,vscode,powerbi" />
+</p>
+
+---
+
+### 🚀 Proyectos destacados
+
+<p align="center">
+  <a href="https://create-codqrv2.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Create%20CodQR%20V2-WebApp-457b9d?style=for-the-badge&logo=vercel&logoColor=white" alt="Create CodQR V2"/>
+  </a>
+  <a href="https://berisvilmauricio.ar/templates/servempleo.html" target="_blank">
+    <img src="https://img.shields.io/badge/ServEmpleo%20Template-WebApp-457b9d?style=for-the-badge&logo=google-chrome&logoColor=white" alt="ServEmpleo Template"/>
+  </a>
+  <a href="https://github.com/MBerisvil/tu-juego1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MBerisvil&repo=tu-juego1&theme=blueberry" />
+  </a>
+  <a href="https://github.com/MBerisvil/tu-web-django">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MBerisvil&repo=tu-web-django&theme=blueberry" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif" alt="Demo proyecto" width="320"/>
+</p>
+
+---
+
+### 📈 Estadísticas y actividad
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MBerisvil&show_icons=true&theme=blueberry" alt="Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MBerisvil&theme=blueberry" alt="Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBerisvil&layout=compact&theme=blueberry" alt="Top Langs"/>
+</p>
+
+---
+
+### 🌱 Actualmente aprendiendo
+
+- FastAPI & Docker
+- Test Driven Development (TDD)
+- Nuevos frameworks de Python
+- Visualizaciones de datos avanzadas
+
+---
+
+### 📬 Contacto
+
+<p align="center">
+  <a href="mailto:berisvilmauricio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://berisvilmauricio.ar" target="_blank"><img src="https://img.shields.io/badge/Portfolio-457b9d?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+</p>
+
+---
+
+## <a name="english"></a>🇬🇧 English
+
+### 📑 Table of Contents
+- [About me](#about-me)
+- [Timeline](#timeline-1)
+- [Technologies & Tools](#technologies--tools)
+- [Featured Projects](#featured-projects)
+- [Stats & Activity](#stats--activity)
+- [Currently Learning](#currently-learning)
+- [Contact](#contact-1)
+
+---
+
+### 👨‍💻 About me
+
+- 💼 Software Development Technician at a bank in Córdoba, Argentina.
+- 🧑‍💻 Passionate about coding and continuous learning.
+- 🐍 Specialized in web and game development with **Python** and its frameworks.
+- 🎮 Enjoys making classic games with PyGame.
+- 🌐 More at [berisvilmauricio.ar](https://berisvilmauricio.ar).
+
+---
+
+### 🕓 Timeline
+
+```mermaid
+timeline
+    title My Journey
+    2017 : Software Development Technician
+    2019 : First freelance projects in Python & web
+    2021 : Joined banking sector as dev
+    2022 : Classic games with PyGame
+    2023 : Experience in Django and .NET
+    2024 : Personal website launch & open projects
+```
+
+---
+
+### 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,java,cs,dotnet,bootstrap,sqlite,mysql,vercel,vscode,powerbi" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://create-codqrv2.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Create%20CodQR%20V2-WebApp-457b9d?style=for-the-badge&logo=vercel&logoColor=white" alt="Create CodQR V2"/>
+  </a>
+  <a href="https://berisvilmauricio.ar/templates/servempleo.html" target="_blank">
+    <img src="https://img.shields.io/badge/ServEmpleo%20Template-WebApp-457b9d?style=for-the-badge&logo=google-chrome&logoColor=white" alt="ServEmpleo Template"/>
+  </a>
+  <a href="https://github.com/MBerisvil/tu-juego1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MBerisvil&repo=tu-juego1&theme=blueberry" />
+  </a>
+  <a href="https://github.com/MBerisvil/tu-web-django">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MBerisvil&repo=tu-web-django&theme=blueberry" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif" alt="Project demo" width="320"/>
+</p>
+
+---
+
+### 📈 Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MBerisvil&show_icons=true&theme=blueberry" alt="Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MBerisvil&theme=blueberry" alt="Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBerisvil&layout=compact&theme=blueberry" alt="Top Langs"/>
+</p>
+
+---
+
+### 🌱 Currently Learning
+
+- FastAPI & Docker
+- Test Driven Development (TDD)
+- New Python frameworks
+- Advanced data visualization
+
+---
+
+### 📬 Contact
+
+<p align="center">
+  <a href="mailto:berisvilmauricio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://berisvilmauricio.ar" target="_blank"><img src="https://img.shields.io/badge/Portfolio-457b9d?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
