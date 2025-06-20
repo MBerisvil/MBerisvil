@@ -150,22 +150,14 @@ timeline
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://create-codqrv2.vercel.app/" target="_blank">
+  <a href="https://github.com/MBerisvil/tu-juego1">
+      <a href="https://create-codqrv2.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Create%20CodQR%20V2-WebApp-457b9d?style=for-the-badge&logo=vercel&logoColor=white" alt="Create CodQR V2"/>
   </a>
-  <a href="https://berisvilmauricio.ar/templates/servempleo.html" target="_blank">
+  </a>
+   <a href="https://berisvilmauricio.ar/templates/servempleo.html" target="_blank">
     <img src="https://img.shields.io/badge/ServEmpleo%20Template-WebApp-457b9d?style=for-the-badge&logo=google-chrome&logoColor=white" alt="ServEmpleo Template"/>
   </a>
-  <a href="https://github.com/MBerisvil/tu-juego1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MBerisvil&repo=tu-juego1&theme=blueberry" />
-  </a>
-  <a href="https://github.com/MBerisvil/tu-web-django">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MBerisvil&repo=tu-web-django&theme=blueberry" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif" alt="Project demo" width="320"/>
 </p>
 
 ---
