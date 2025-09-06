@@ -34,21 +34,6 @@
 
 ---
 
-### 🕓 Timeline
-
-```mermaid
-timeline
-    title Mi Trayectoria
-    2017 : Técnico en Desarrollo de Software
-    2019 : Primeros proyectos freelance en Python y web
-    2021 : Me uno al sector bancario como Analista Sr
-    2022 : Juegos clásicos con PyGame
-    2023 : Experiencia en Django y .NET
-    2024 : Lanzamiento de sitio personal y proyectos abiertos
-```
-
----
-
 ### 🛠️ Tecnologías y herramientas
 
 <p align="center">
