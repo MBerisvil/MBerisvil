@@ -3,12 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d3557,100:457b9d&height=170&section=header&text=Mauricio%20Berisvil&fontSize=46&fontAlignY=39&fontColor=FFFFFF&desc=Software%20Developer%20%7C%20Python%20Enthusiast&descSize=22&descAlign=50&descAlignY=60&animation=fadeIn" alt="banner"/>
 </p>
 
-<!-- Selector de idioma (banderas a la derecha) -->
-<p align="right">
-  <a href="#español"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ar.svg" width="34" alt="Español" /></a>
-  <a href="#english"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" width="34" alt="English" /></a>
-</p>
-
 ---
 
 ## <a name="español"></a>🇦🇷 Español
